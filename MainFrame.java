@@ -95,7 +95,7 @@ public class MainFrame extends JFrame {
         final JPanel messagePanel = new JPanel();
         messagePanel.setBorder(
                 BorderFactory.createTitledBorder("Сообщение"));
-        
+
 
         // Кнопка отправки сообщения
         final JButton buttonSend = new JButton("Отправить");
